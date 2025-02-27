@@ -1,0 +1,4 @@
+ Proyecto en ejecución: 1er Ejercicio
+ Resultados:
+ Media Columna 1: 6.30
+ Desviación estándar Columna 1: 3.68
